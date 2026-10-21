@@ -1,7 +1,3 @@
-<!-- ============================================================ -->
-<!--  Replace YOUR_USERNAME with your GitHub username (6 places)   -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Donnovan%20Escobedo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Architect%20%7C%20AI%20Engineer%20%7C%20PhD%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
@@ -13,9 +9,10 @@
 <br/>
 
 <a href="mailto:Donnovan.Escobedo@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/donnovanescobedo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/DonnoKun"><img src="https://img.shields.io/github/followers/DonnoKun?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 <img src="https://img.shields.io/badge/Aguascalientes,%20MX-111111?style=for-the-badge&logo=googlemaps&logoColor=36BCF7"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=DonnoKun&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -160,12 +157,12 @@ My independent lab for building things I believe should exist: **AI-powered tool
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DonnoKun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnoKun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=6"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=DonnoKun&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=2c5364&point=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DonnoKun&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=2c5364&point=ffffff&area=true" width="100%"/>
 
 </div>
 
