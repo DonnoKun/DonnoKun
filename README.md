@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Donnovan%20Escobedo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Architect%20%7C%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Donnovan%20Escobedo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Architect%20%7C%20Backend%20and%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=720&height=45&lines=Designing+resilient+SOA+%2B+microservices+architectures;Integrating+AI+services+that+fail+gracefully;Building+event-driven+systems+with+Kafka;Shipping+containers%2C+not+excuses" alt="Typing SVG" />
