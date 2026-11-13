@@ -19,7 +19,7 @@
 ## `> whoami`
 
 ```yaml
-name:      Donnovan "Donno" Escobedo
+name:      Donnovan Escobedo
 role:      Software Architect & Backend / AI Engineer
 building:  EduAccess, a resilient AI-powered accessibility platform
 stack:     [Java, Spring Boot, Kafka, Python, Docker, Kubernetes, Azure]
